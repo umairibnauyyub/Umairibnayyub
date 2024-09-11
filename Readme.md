@@ -1,11 +1,9 @@
-# Hi there, Umair Khan  👋
-
-<br /><br />
+# Hi there, I'm Umair 👋
 
 ## About me
-I am XYZ from Pune, India.  
+I am Umair from Pune, India.  
 I like to learn new Tools and Skills.  
-Started my Career as XYZ ZYx XYZ, now Working as DevOps Engineer.
+Started my career as XYZ, now working as DevOps Engineer.
 
 # My DevOps Skills:
 🐋 CloudFormation  
@@ -19,21 +17,8 @@ Started my Career as XYZ ZYx XYZ, now Working as DevOps Engineer.
 🦐 Amazon RDS  
 🦞 Amazon ECS and EKS
 
-<br /><br />
+## My DevOps Projects and Experiments:
+🚀 **Automating Docker Setup on Remote Server with Nginx**  
+🚀 **[Creating Large-Scale Application on AWS](https://github.com/umairibnauyyub/Creating-Large-Scale-Application)**  
 
-# My DevOps Projects and Experiments:
-
-🚀 **This is the write your project title**  
-🚀 **Automating the process of installing and setting up Docker with containers on a remote server with Nginx Image**  
-🚀 **[This is the write your project title](https://github.com/profile/Creating-Large-Scale-Application-Highly-Globally-available-on-AWS)**  
-
-🚀 Coming soonnnnnn...
-
-<h2><i>Follow me:</i></h2>
-
-
- 
-   
-  
-
-
+🚀 Coming soon...
